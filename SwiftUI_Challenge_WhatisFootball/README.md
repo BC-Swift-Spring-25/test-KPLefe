@@ -1,5 +1,5 @@
-1. Create two images in row  with HStack
-2. HStack is embedded within VStack
+1. Create Text and HStack within VStack
+2. In HStack create 3 images in horizotnal row. Resizable,Scaled to Fit
 
 VStack with Text and Nexted HStack. 3 Images in a row, scaled images for best user experience.
 https://www.linkedin.com/in/kevinlefebvre-dv/
